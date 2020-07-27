@@ -1,0 +1,23 @@
+.btn-light {
+    border-color: transparent;
+}
+li .completed {
+    text-decoration: line-through;
+}
+/* .completed {
+    text-decoration: line-through
+}
+#todoList{
+    list-style: none;
+}
+.delete{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+li{
+    border-bottom: 1px solid lightgray;
+}
+li:last-child{
+    border-bottom: none;
+} */
